@@ -62,7 +62,7 @@ function plugin_cron_jtax() {
         }
         echo '</tbody>';
         echo '</table>';
-        echo '<p>Total de tareas programadas: ' . $cron_count . '</p>';
+        echo '<p>Programmed tasks: ' . $cron_count . '</p>';
     }
     
     echo '</div>';
