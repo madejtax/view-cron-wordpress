@@ -17,12 +17,12 @@ function cron_page() {
         'Cron wordpress',
         'manage_options',
         'ver_cron',
-        'plugin_cron_jmfernandez'
+        'plugin_cron_jtax'
     );
 }
 add_action('admin_menu', 'cron_page');
 
-function plugin_cron_jmfernandez() {
+function plugin_cron_jtax() {
     $cron_jobs = get_option( 'cron' ); // Obtiene la lista de tareas programadas de WordPress
     $cron_count = 0; // Numero de procesos
     
