@@ -5,7 +5,7 @@ License: GPL v3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 ## Description
-Plugin name is a simple tool to view background activities in WordPress quickly and easily. The plugin displays a list of scheduled tasks in the WordPress Cron, including their status (active or inactive), last execution and next execution. You can use this plugin to monitor and manage scheduled tasks on your WordPress site.
+Simple tool to view background activities in WordPress quickly and easily. The plugin displays a list of scheduled tasks in the WordPress Cron, including their status (active or inactive), last execution and next execution. You can use this plugin to monitor and manage scheduled tasks on your WordPress site.
 
 ## Installation
 1. Upload the plugin folder to the plugins folder (/wp-content/plugins/) on your WordPress site.
