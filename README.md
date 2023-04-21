@@ -16,11 +16,11 @@ Plugin name is a simple tool to view background activities in WordPress quickly 
 2. You will see a list of the tasks scheduled in the WordPress Cron, including their name, status, last run and next run.
 3. You can use this list to manage and monitor background activities on your WordPress site.
 
-== Support ==
+## Support
 If you need support or have any questions about this plugin, you can contact me through my email hola@jmfernandez.dev.
 
-== Contributions ==
+## Contributions
 If you want to contribute to this plugin, you are welcome to do so via https://github.com/madejtax/view-cron-wordpress.
 
-== License ==
+## License
 This plugin is licensed under the GNU General Public License (GPL) v3.0 or later. You can find a copy of the license at https://www.gnu.org/licenses/gpl-3.0.html.
