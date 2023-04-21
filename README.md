@@ -20,7 +20,7 @@ Plugin name is a simple tool to view background activities in WordPress quickly 
 If you need support or have any questions about this plugin, you can contact me through my email hola@jmfernandez.dev.
 
 == Contributions ==
-If you want to contribute to this plugin, you are welcome to do so via [GitHub](https://github.com/madejtax/view-cron-wordpress).
+If you want to contribute to this plugin, you are welcome to do so via https://github.com/madejtax/view-cron-wordpress.
 
 == License ==
 This plugin is licensed under the GNU General Public License (GPL) v3.0 or later. You can find a copy of the license at https://www.gnu.org/licenses/gpl-3.0.html.
