@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: Wordpress Cron jobs and status
+* Plugin Name: Cron jobs and status
 * Plugin URI: https://github.com/madejtax
 * Description: Wordpress cron viewer.
 * Version: 0.1
