@@ -1,2 +1,5 @@
-# view-cron-wordpress
-Simple plugin consisting of a wordpress file that displays the wordpress cron with current status.
+# List of background activities in wordpress
+
+Simple plugin to look at cron and wordpress status in a simple way.
+
+If you need support you can contact me through my email hola@jmfernandez.dev
